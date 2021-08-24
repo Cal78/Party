@@ -1,0 +1,7 @@
+name: Party
+version: '${project.version}'
+main: kr.teamcode.Main
+api-version: 1.16
+commands:
+  파티:
+    aliases: [party, vkxl]
